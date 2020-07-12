@@ -1,6 +1,9 @@
 ##  <img src="https://user-images.githubusercontent.com/48408417/87241487-adcbb580-c45e-11ea-9ec8-df836ff7c00e.jpg" width='30'>  김동현 / 대덕SW마이스터고(DSM) 2학년 
 **Kim Dong Hyeon / sophomore(the second grade) at daedeok software meister high school**
 
+<details>
+  <summary>세부 정보 (Details information)</summary>
+
 ## 🌱 I’m currently learning :
 - **Python!**
   - Python Crawling  
@@ -22,3 +25,5 @@
 ## 😊 Fun fact:
 - I like philosophy(철학) and theology(신학).
 - I meditate(명상) often. 
+
+</details>
