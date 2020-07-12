@@ -1,4 +1,4 @@
-##  <img src="https://user-images.githubusercontent.com/48408417/87241487-adcbb580-c45e-11ea-9ec8-df836ff7c00e.jpg" width='70'>  김동현 / 대덕SW마이스터고(DSM) 2학년
+##  <img src="https://user-images.githubusercontent.com/48408417/87241487-adcbb580-c45e-11ea-9ec8-df836ff7c00e.jpg" width='30'>  김동현 / 대덕SW마이스터고(DSM) 2학년 
 **Kim Dong Hyeon / sophomore(the second grade) at daedeok software meister high school**
 
 ## 🌱 I’m currently learning :
