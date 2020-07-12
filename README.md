@@ -1,16 +1,29 @@
-### Hi there 👋
+## <img src="https://user-images.githubusercontent.com/48408417/87241487-adcbb580-c45e-11ea-9ec8-df836ff7c00e.jpg" width='25'> 김동현 / 대덕SW마이스터고(DSM) 2학년
+**Kim Dong Hyeon / sophomore(the second grade) at daedeok software meister high school**
 
-<!--
-**Kimdonghyeon7645/Kimdonghyeon7645** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+## 🌱 I’m currently learning :
+- **Python!**
+  - Python Crawling  
+  - Django Framework  
+  
+- Java Script  
+- Linux Shell Script  
+- Problem Solving (with python3)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🍀 I'm learning as a hobby :
+- Flutter
+
+- HTML5 & CSS3
+- Java
+- Node.js
+- Python Pandas & numpy
+
+
+## 📫 How to reach me:
+- Email : kiback2826@naver.com
+
+## 😊 Fun fact:
+- I like philosophy(철학) and theology(신학).
+- I meditate(명상) often. 
