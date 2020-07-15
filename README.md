@@ -23,7 +23,10 @@
 - Email : kiback2826@naver.com
 
 ## 😊 Fun fact:
-- I like philosophy(철학) and theology(신학).
-- I meditate(명상) often. 
+- I like philosophy and theology.
+- I meditate often. 
+
+## my motto :
+![바탕화면_동산2_역지사지](https://user-images.githubusercontent.com/48408417/87502279-27041c00-c69c-11ea-8a5c-8926654ead7e.jpg)
 
 </details>
