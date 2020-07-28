@@ -6,18 +6,17 @@
 
 ## 🌱 I’m currently learning :
 - **Python!**
-  - Python Crawling  
+  - Crawling  
   - Django Framework  
-- Java Script  
+- Java Script
+  - FrontEnd development with HTML5, CSS3
 - Linux Shell Script  
-- Problem Solving (with python3)  
+- SQL grammar
 
 ## 🍀 I'm learning as a hobby :
 - Flutter
-- HTML5 & CSS3
 - Java
 - Node.js
-- Python Pandas & numpy
 
 ## 📫 How to reach me:
 - Email : kiback2826@naver.com
