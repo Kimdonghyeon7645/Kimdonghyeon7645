@@ -29,3 +29,6 @@
 ![바탕화면_동산2_역지사지](https://user-images.githubusercontent.com/48408417/87502279-27041c00-c69c-11ea-8a5c-8926654ead7e.jpg)
 
 </details>
+
+[![동현의 github stats](https://github-readme-stats.vercel.app/api?username=Kimdonghyeon7645)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kimdonghyeon7645&hide=c,css)](https://github.com/anuraghazra/github-readme-stats)
