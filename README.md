@@ -26,4 +26,4 @@
 </details>
 
 [![동현의 github stats](https://github-readme-stats.vercel.app/api?username=Kimdonghyeon7645&hide=issues)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kimdonghyeon7645&card_width=3)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kimdonghyeon7645&layout=compact&card_width=350)](https://github.com/anuraghazra/github-readme-stats)
