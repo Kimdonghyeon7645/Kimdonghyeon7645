@@ -1,7 +1,7 @@
 # <img src="https://user-images.githubusercontent.com/48408417/87502548-c45f5000-c69c-11ea-8101-20bbc14ea002.jpg" width='30'>  김동현(Kim Dong Hyeon)
 
 - 🔭 I'm currently attending Daedeok Software Meister High School.
-- 🌱 I’m currently learning Java, Spring.
+- 🌱 I’m currently learning Python(Django), Java(Spring).
 - 🥅 2020 Goals: Become the master of Java!
 - ⚡ Fun fact: I love philosophy and meditation!
 
