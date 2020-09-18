@@ -27,6 +27,6 @@
 <br />
 <br />
 
-[![동현의 github stats](https://github-readme-stats.vercel.app/api?username=Kimdonghyeon7645&hide=issues)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kimdonghyeon7645&layout=compact&card_width=auto)](https://github.com/anuraghazra/github-readme-stats)
+[![동현의 github stats](https://github-readme-stats.vercel.app/api?username=Kimdonghyeon7645&hide=issues&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kimdonghyeon7645&layout=compact&card_width=auto&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
 
