@@ -5,7 +5,7 @@
 - 🥅 2020 Goals: Become the master of Java!
 - ⚡ Fun fact: I love philosophy and meditation!
 
-### Languages and Tools:
+## Languages and Tools:
 
 <img align="left" alt="Java" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
 <img align="left" alt="Java" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png" />
@@ -21,6 +21,5 @@
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=Kimdonghyeon7645&hide=issues&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kimdonghyeon7645&layout=compact&card_width=auto&theme=graywhite&exclude_repo=Python-Data-Analysis)](https://github.com/anuraghazra/github-readme-stats)
-[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Kimdonghyeon7645&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Kimdonghyeon7645&repo=SpringBoot-Study)](https://github.com/anuraghazra/github-readme-stats)
+[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Kimdonghyeon7645&layout=compact&width=100)](https://github.com/anuraghazra/github-readme-stats)
 <!-- 와! 2000커밋 달성! -->
