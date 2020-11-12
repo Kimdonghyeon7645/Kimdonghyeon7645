@@ -21,5 +21,6 @@
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=Kimdonghyeon7645&hide=issues&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kimdonghyeon7645&layout=compact&card_width=auto&theme=graywhite&exclude_repo=Python-Data-Analysis)](https://github.com/anuraghazra/github-readme-stats)
+[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Kimdonghyeon7645&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Kimdonghyeon7645&repo=SpringBoot-Study)](https://github.com/anuraghazra/github-readme-stats)
 <!-- 와! 2000커밋 달성! -->
-<!-- 와! I'm in 영월! -->
