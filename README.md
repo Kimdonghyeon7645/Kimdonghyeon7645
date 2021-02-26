@@ -2,7 +2,7 @@
 
 - 🔭 I'm currently attending Daedeok Software Meister High School(DSM).
 - 🌱 I’m currently learning Python(Django), Java(Spring).
-- 🥅 2020 Goals: Become the master of Java!
+- 🥅 2021 Goals: Become the master of SpringBoot!
 - ⚡ Fun fact: I love philosophy and meditation!
 
 ## Languages and Tools:
