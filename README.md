@@ -42,7 +42,7 @@
 
 <br />
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Kimdonghyeon7645&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Kimdonghyeon7645&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=blue&title=Hit(방문자 수)&edge_flat=true)](https://hits.seeyoufarm.com)
 
 <details>
   <summary><b>More Information</b></summary>
