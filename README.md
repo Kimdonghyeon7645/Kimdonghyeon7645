@@ -1,19 +1,31 @@
-# <img src="https://user-images.githubusercontent.com/48408417/87502548-c45f5000-c69c-11ea-8101-20bbc14ea002.jpg" width='30'>  김동현(Kim Dong Hyeon)
+# <img src="https://user-images.githubusercontent.com/48408417/87502548-c45f5000-c69c-11ea-8101-20bbc14ea002.jpg" width='30'> Kim Dong Hyeon(김동현)
 
 - 🔭 I'm currently attending Daedeok Software Meister High School(DSM).
 - 🌱 I’m currently learning Python(Django), Java(Spring).
 - 🥅 2021 Goals: Become the master of SpringBoot!
 - ⚡ Fun fact: I love philosophy and meditation!
 
-## Languages and Tools:
+## SKill
+<!--**- Language**  -->
 
-<img align="left" alt="Java" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
-<img align="left" alt="Springboot" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png" />
-<img align="left" alt="Python" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="Django" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />
-<img align="left" alt="MySQL" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="Aws" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" />
-<img align="left" alt="Git" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+![Python](https://img.shields.io/badge/Python-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-blue?style=flat-square&logo=Python&logoColor=white&labelColor=blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-yellow?style=flat-square&logo=JavaScript&logoColor=white&labelColor=yellow)
+![Java](https://img.shields.io/badge/Java-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-saddlebrown?style=flat-square&logo=Java&logoColor=white&labelColor=saddlebrown)
+
+<!--**- Framework**  -->
+
+![Django](https://img.shields.io/badge/Django-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-darkslategray?style=flat-square&logo=Django&logoColor=white&labelColor=darkslategray)
+![SpringBoot](https://img.shields.io/badge/SpringBoot-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-limegreen?style=flat-square&logo=Spring&logoColor=white&labelColor=limegreen)
+
+<!--**- Sub**  -->
+
+![GitHub](https://img.shields.io/badge/GitHub-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-black?style=flat-square&logo=Github&logoColor=white&labelColor=black)
+![Git](https://img.shields.io/badge/Git-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-orange?style=flat-square&logo=Git&logoColor=white&labelColor=orange)
+![MySQL](https://img.shields.io/badge/MySQL-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-blue?style=flat-square&logo=MySQL&logoColor=white&labelColor=blue)
+![Heroku](https://img.shields.io/badge/Heroku-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-darkslateblue?style=flat-square&logo=Heroku&logoColor=white&labelColor=darkslateblue)
+![AWS](https://img.shields.io/badge/AWS-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-darkorange?style=flat-square&logo=Amazon&logoColor=white&labelColor=darkorange)
+![Docker](https://img.shields.io/badge/Docker-%E2%98%85%E2%98%85%E2%98%86%E2%98%86%E2%98%86-deepskyblue?style=flat-square&logo=Docker&logoColor=white&labelColor=deepskyblue)
+![Flutter](https://img.shields.io/badge/Flutter-%E2%98%85%E2%98%85%E2%98%86%E2%98%86%E2%98%86-dodgerblue?style=flat-square&logo=Flutter&logoColor=white&labelColor=dodgerblue)
 
 <br />
 <br />
@@ -27,5 +39,4 @@
   <summary><b>Wakatime Week Stats</b></summary>
   
   [![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Kimdonghyeon7645&layout=compact&width=100)](https://github.com/anuraghazra/github-readme-stats)
-  <!-- 와! 2000커밋 달성! -->
 </details>
