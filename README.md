@@ -31,9 +31,13 @@
 [![github stats](https://github-readme-stats.vercel.app/api?username=Kimdonghyeon7645&hide=issues&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kimdonghyeon7645&layout=compact&card_width=auto&theme=graywhite&exclude_repo=Python-Data-Analysis,JUMP-UP-Project_DSM_school_meal_Analysis)](https://github.com/anuraghazra/github-readme-stats)
 
+<div align="center">
+   <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=juicyfresh" />
+</div>
+  
+
 <details>
   <summary><b>More Information</b></summary>
-  
-  ![](https://hit.yhype.me/github/profile?user_id=48408417)
+ 
   [![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Kimdonghyeon7645&layout=compact&width=100)](https://github.com/anuraghazra/github-readme-stats)
 </details>
