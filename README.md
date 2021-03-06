@@ -4,7 +4,7 @@
 > - ❤ I love **Python**! Other than programming, love **Eastern philosophy**
 > - 🔥 I'm studying **Java and SpringBoot** hard!
 
-### 🔧 My Skill
+## 🔧 My Skill
 <!--**- Language**  -->
 
 ![Python](https://img.shields.io/badge/Python-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-blue?style=for-the-badge&logo=Python&logoColor=white&labelColor=blue)
@@ -26,7 +26,7 @@
 ![Docker](https://img.shields.io/badge/Docker-%E2%98%85%E2%98%85%E2%98%86%E2%98%86%E2%98%86-deepskyblue?style=for-the-badge&logo=Docker&logoColor=white&labelColor=deepskyblue)
 ![Flutter](https://img.shields.io/badge/Flutter-%E2%98%85%E2%98%85%E2%98%86%E2%98%86%E2%98%86-dodgerblue?style=for-the-badge&logo=Flutter&logoColor=white&labelColor=dodgerblue)
 
-### 🐱‍💻 Information
+## 🐱‍💻 Information
 <!-- Widgets -->
 
 <div align="center">
