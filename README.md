@@ -4,28 +4,29 @@
 > - ❤ I love **Python**! Other than programming, love **Eastern philosophy**
 > - 🔥 I'm studying **Java and SpringBoot** hard!
 
-## 🛠 My Skill
+### 🔧 My Skill
 <!--**- Language**  -->
 
-![Python](https://img.shields.io/badge/Python-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-blue?style=flat-square&logo=Python&logoColor=white&labelColor=blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-yellow?style=flat-square&logo=JavaScript&logoColor=white&labelColor=yellow)
-![Java](https://img.shields.io/badge/Java-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-saddlebrown?style=flat-square&logo=Java&logoColor=white&labelColor=saddlebrown)
+![Python](https://img.shields.io/badge/Python-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-blue?style=for-the-badge&logo=Python&logoColor=white&labelColor=blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-yellow?style=for-the-badge&logo=JavaScript&logoColor=white&labelColor=yellow)
+![Java](https://img.shields.io/badge/Java-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-saddlebrown?style=for-the-badge&logo=Java&logoColor=white&labelColor=saddlebrown)
 
 <!--**- Framework**  -->
 
-![Django](https://img.shields.io/badge/Django-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-darkslategray?style=flat-square&logo=Django&logoColor=white&labelColor=darkslategray)
-![SpringBoot](https://img.shields.io/badge/SpringBoot-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-limegreen?style=flat-square&logo=Spring&logoColor=white&labelColor=limegreen)
+![Django](https://img.shields.io/badge/Django-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-darkslategray?style=for-the-badge&logo=Django&logoColor=white&labelColor=darkslategray)
+![SpringBoot](https://img.shields.io/badge/SpringBoot-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-limegreen?style=for-the-badge&logo=Spring&logoColor=white&labelColor=limegreen)
 
 <!--**- Sub**  -->
 
-![GitHub](https://img.shields.io/badge/GitHub-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-black?style=flat-square&logo=Github&logoColor=white&labelColor=black)
-![Git](https://img.shields.io/badge/Git-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-orange?style=flat-square&logo=Git&logoColor=white&labelColor=orange)
-![MySQL](https://img.shields.io/badge/MySQL-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-blue?style=flat-square&logo=MySQL&logoColor=white&labelColor=blue)
-![Heroku](https://img.shields.io/badge/Heroku-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-darkslateblue?style=flat-square&logo=Heroku&logoColor=white&labelColor=darkslateblue)
-![AWS](https://img.shields.io/badge/AWS-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-darkorange?style=flat-square&logo=Amazon&logoColor=white&labelColor=darkorange)
-![Docker](https://img.shields.io/badge/Docker-%E2%98%85%E2%98%85%E2%98%86%E2%98%86%E2%98%86-deepskyblue?style=flat-square&logo=Docker&logoColor=white&labelColor=deepskyblue)
-![Flutter](https://img.shields.io/badge/Flutter-%E2%98%85%E2%98%85%E2%98%86%E2%98%86%E2%98%86-dodgerblue?style=flat-square&logo=Flutter&logoColor=white&labelColor=dodgerblue)
+![GitHub](https://img.shields.io/badge/GitHub-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-black?style=for-the-badge&logo=Github&logoColor=white&labelColor=black)
+![Git](https://img.shields.io/badge/Git-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-orange?style=for-the-badge&logo=Git&logoColor=white&labelColor=orange)
+![MySQL](https://img.shields.io/badge/MySQL-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-blue?style=for-the-badge&logo=MySQL&logoColor=white&labelColor=blue)
+![Heroku](https://img.shields.io/badge/Heroku-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-darkslateblue?style=for-the-badge&logo=Heroku&logoColor=white&labelColor=darkslateblue)
+![AWS](https://img.shields.io/badge/AWS-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-darkorange?style=for-the-badge&logo=Amazon&logoColor=white&labelColor=darkorange)
+![Docker](https://img.shields.io/badge/Docker-%E2%98%85%E2%98%85%E2%98%86%E2%98%86%E2%98%86-deepskyblue?style=for-the-badge&logo=Docker&logoColor=white&labelColor=deepskyblue)
+![Flutter](https://img.shields.io/badge/Flutter-%E2%98%85%E2%98%85%E2%98%86%E2%98%86%E2%98%86-dodgerblue?style=for-the-badge&logo=Flutter&logoColor=white&labelColor=dodgerblue)
 
+### 🐱‍💻 Information
 <!-- Widgets -->
 
 <br />
@@ -36,9 +37,12 @@
 
 <br />
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=Kimdonghyeon7645&hide=issues&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kimdonghyeon7645&layout=compact&card_width=auto&theme=graywhite&exclude_repo=Python-Data-Analysis,JUMP-UP-Project_DSM_school_meal_Analysis)](https://github.com/anuraghazra/github-readme-stats)
+[![github stats](https://github-readme-stats.vercel.app/api?username=Kimdonghyeon7645&hide=issues&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kimdonghyeon7645&layout=compact&card_width=auto&theme=onedark&exclude_repo=Python-Data-Analysis,JUMP-UP-Project_DSM_school_meal_Analysis)](https://github.com/anuraghazra/github-readme-stats)
 
+<br />
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Kimdonghyeon7645&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <details>
   <summary><b>More Information</b></summary>
