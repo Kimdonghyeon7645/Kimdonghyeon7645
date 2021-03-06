@@ -1,4 +1,4 @@
-### <img src="https://user-images.githubusercontent.com/48408417/87502548-c45f5000-c69c-11ea-8101-20bbc14ea002.jpg" width='20'> Kim Dong Hyeon(김동현)
+## <img src="https://user-images.githubusercontent.com/48408417/87502548-c45f5000-c69c-11ea-8101-20bbc14ea002.jpg" width='20'> Hi there, I'm Kim Dong Hyeon(김동현) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
 
 > - 🏫 I'm a senior at DSM(Daedeok Software Meister High School)
 > - ❤ I love **Python**! Other than programming, love **Eastern philosophy**
@@ -32,7 +32,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kimdonghyeon7645&layout=compact&card_width=auto&theme=graywhite&exclude_repo=Python-Data-Analysis,JUMP-UP-Project_DSM_school_meal_Analysis)](https://github.com/anuraghazra/github-readme-stats)
 
 <details>
-  <summary><b>Wakatime Week Stats</b></summary>
+  <summary><b>More Information</b></summary>
   
+  ![yhype widgets](https://hit.yhype.me/github/profile?user_id=48408417)
   [![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Kimdonghyeon7645&layout=compact&width=100)](https://github.com/anuraghazra/github-readme-stats)
 </details>
