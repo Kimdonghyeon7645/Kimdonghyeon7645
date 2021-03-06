@@ -26,25 +26,15 @@
 ![Docker](https://img.shields.io/badge/Docker-%E2%98%85%E2%98%85%E2%98%86%E2%98%86%E2%98%86-deepskyblue?style=for-the-badge&logo=Docker&logoColor=white&labelColor=deepskyblue)
 ![Flutter](https://img.shields.io/badge/Flutter-%E2%98%85%E2%98%85%E2%98%86%E2%98%86%E2%98%86-dodgerblue?style=for-the-badge&logo=Flutter&logoColor=white&labelColor=dodgerblue)
 
-<br />
-
-
 ### 🐱‍💻 Information
 <!-- Widgets -->
-
-<br />
-
 
 <div align="center">
    <img src="https://github-profile-trophy.vercel.app/?username=Kimdonghyeon7645&theme=onedark" />
 </div>
 
-<br />
-
 [![github stats](https://github-readme-stats.vercel.app/api?username=Kimdonghyeon7645&hide=issues&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kimdonghyeon7645&layout=compact&card_width=auto&theme=onedark&exclude_repo=Python-Data-Analysis,JUMP-UP-Project_DSM_school_meal_Analysis)](https://github.com/anuraghazra/github-readme-stats)
-
-<br />
 
 <details>
   <summary><b>More Information</b></summary>
