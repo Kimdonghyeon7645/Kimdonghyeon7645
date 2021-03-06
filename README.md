@@ -1,9 +1,8 @@
-# <img src="https://user-images.githubusercontent.com/48408417/87502548-c45f5000-c69c-11ea-8101-20bbc14ea002.jpg" width='30'> Kim Dong Hyeon(김동현)
+### <img src="https://user-images.githubusercontent.com/48408417/87502548-c45f5000-c69c-11ea-8101-20bbc14ea002.jpg" width='20'> Kim Dong Hyeon(김동현)
 
-- 🔭 I'm currently attending Daedeok Software Meister High School(DSM).
-- 🌱 I’m currently learning Python(Django), Java(Spring).
-- 🥅 2021 Goals: Become the master of SpringBoot!
-- ⚡ Fun fact: I love philosophy and meditation!
+> - 🏫 I'm a senior at DSM(Daedeok Software Meister High School)
+> - ❤ I love **Python**! Other than programming, love **Eastern philosophy**
+> - 🔥 I'm studying **Java and SpringBoot** hard!
 
 ## Skill
 <!--**- Language**  -->
