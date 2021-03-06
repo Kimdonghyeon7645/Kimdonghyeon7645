@@ -26,10 +26,14 @@
 ![Docker](https://img.shields.io/badge/Docker-%E2%98%85%E2%98%85%E2%98%86%E2%98%86%E2%98%86-deepskyblue?style=for-the-badge&logo=Docker&logoColor=white&labelColor=deepskyblue)
 ![Flutter](https://img.shields.io/badge/Flutter-%E2%98%85%E2%98%85%E2%98%86%E2%98%86%E2%98%86-dodgerblue?style=for-the-badge&logo=Flutter&logoColor=white&labelColor=dodgerblue)
 
+<br />
+
+
 ### 🐱‍💻 Information
 <!-- Widgets -->
 
 <br />
+
 
 <div align="center">
    <img src="https://github-profile-trophy.vercel.app/?username=Kimdonghyeon7645&theme=onedark" />
@@ -41,8 +45,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kimdonghyeon7645&layout=compact&card_width=auto&theme=onedark&exclude_repo=Python-Data-Analysis,JUMP-UP-Project_DSM_school_meal_Analysis)](https://github.com/anuraghazra/github-readme-stats)
 
 <br />
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Kimdonghyeon7645&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=blue&title=Hit(방문자 수)&edge_flat=true)](https://hits.seeyoufarm.com)
 
 <details>
   <summary><b>More Information</b></summary>
