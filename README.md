@@ -4,7 +4,7 @@
 > - ❤ I love **Python**! Other than programming, love **Eastern philosophy**
 > - 🔥 I'm studying **Java and SpringBoot** hard!
 
-## Skill
+## 🛠 My Skill
 <!--**- Language**  -->
 
 ![Python](https://img.shields.io/badge/Python-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-blue?style=flat-square&logo=Python&logoColor=white&labelColor=blue)
@@ -27,6 +27,8 @@
 ![Flutter](https://img.shields.io/badge/Flutter-%E2%98%85%E2%98%85%E2%98%86%E2%98%86%E2%98%86-dodgerblue?style=flat-square&logo=Flutter&logoColor=white&labelColor=dodgerblue)
 
 <!-- Widgets -->
+
+<br />
 
 <div align="center">
    <img src="https://github-profile-trophy.vercel.app/?username=Kimdonghyeon7645&theme=onedark" />
