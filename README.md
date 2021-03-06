@@ -32,7 +32,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kimdonghyeon7645&layout=compact&card_width=auto&theme=graywhite&exclude_repo=Python-Data-Analysis,JUMP-UP-Project_DSM_school_meal_Analysis)](https://github.com/anuraghazra/github-readme-stats)
 
 <div align="center">
-   <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=juicyfresh" />
+   <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=Kimdonghyeon7645" />
 </div>
   
 
