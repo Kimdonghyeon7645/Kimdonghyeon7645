@@ -34,6 +34,6 @@
 <details>
   <summary><b>More Information</b></summary>
   
-  ![yhype widgets](https://hit.yhype.me/github/profile?user_id=48408417)
+  ![](https://hit.yhype.me/github/profile?user_id=48408417)
   [![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Kimdonghyeon7645&layout=compact&width=100)](https://github.com/anuraghazra/github-readme-stats)
 </details>
