@@ -18,7 +18,6 @@
 
 <!--**- Sub**  -->
 
-![GitHub](https://img.shields.io/badge/GitHub-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-black?style=flat-square&logo=Github&logoColor=white&labelColor=black)
 ![Git](https://img.shields.io/badge/Git-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-orange?style=flat-square&logo=Git&logoColor=white&labelColor=orange)
 ![MySQL](https://img.shields.io/badge/MySQL-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-blue?style=flat-square&logo=MySQL&logoColor=white&labelColor=blue)
 ![Heroku](https://img.shields.io/badge/Heroku-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-darkslateblue?style=flat-square&logo=Heroku&logoColor=white&labelColor=darkslateblue)
