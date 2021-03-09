@@ -8,12 +8,12 @@
 <!--**- Language**  -->
 
 ![Python](https://img.shields.io/badge/Python-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-blue?style=for-the-badge&logo=Python&logoColor=white&labelColor=blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-yellow?style=flat-square&logo=JavaScript&logoColor=white&labelColor=yellow)
 ![Java](https://img.shields.io/badge/Java-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-saddlebrown?style=flat-square&logo=Java&logoColor=white&labelColor=saddlebrown)
+![JavaScript](https://img.shields.io/badge/JavaScript-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-yellow?style=flat-square&logo=JavaScript&logoColor=white&labelColor=yellow)
 
 <!--**- Framework**  -->
 
-![Django](https://img.shields.io/badge/Django-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-darkslategray?style=flat-square&logo=Django&logoColor=white&labelColor=darkslategray)
+![Django](https://img.shields.io/badge/Django-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-darkslategray?style=for-the-badge&logo=Django&logoColor=white&labelColor=darkslategray)
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-limegreen?style=flat-square&logo=Spring&logoColor=white&labelColor=limegreen)
 
 <!--**- Sub**  -->
