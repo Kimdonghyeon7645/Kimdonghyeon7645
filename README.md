@@ -1,4 +1,4 @@
-## <img src="https://user-images.githubusercontent.com/48408417/87502548-c45f5000-c69c-11ea-8101-20bbc14ea002.jpg" width='20'> Hi there, I'm Kim Dong Hyeon(김동현) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
+## <img src="https://user-images.githubusercontent.com/48408417/87502548-c45f5000-c69c-11ea-8101-20bbc14ea002.jpg" width='20'> Hi there, I'm Kim Dong Hyeon(김동현)
 
 <!-- > - 🏫 I'm a senior at DSM(Daedeok Software Meister High School)
 > - ❤ I love **Python**! Other than programming, love **Eastern philosophy**
