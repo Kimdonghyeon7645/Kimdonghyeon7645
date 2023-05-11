@@ -1,29 +1,14 @@
-## <img src="https://user-images.githubusercontent.com/48408417/87502548-c45f5000-c69c-11ea-8101-20bbc14ea002.jpg" width='20'> Hi there, I'm Kim Dong Hyeon(김동현)
+## <img src="https://user-images.githubusercontent.com/48408417/87502548-c45f5000-c69c-11ea-8101-20bbc14ea002.jpg" width='20'> Hi there, I'm Kim Donghyeon
 
-<!-- > - 🏫 I'm a senior at DSM(Daedeok Software Meister High School)
-> - ❤ I love **Python**! Other than programming, love **Eastern philosophy**
-> - 🔥 I'm studying **Java and SpringBoot** hard!
- -->
+
 ## 🔧 My Skill
 <!--**- Language**  -->
 
-![Python](https://img.shields.io/badge/Python-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-blue?style=flat-square&logo=Python&logoColor=white&labelColor=blue)
-![Java](https://img.shields.io/badge/Java-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-saddlebrown?style=flat-square&logo=Java&logoColor=white&labelColor=saddlebrown)
-![JavaScript](https://img.shields.io/badge/JavaScript-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-yellow?style=flat-square&logo=JavaScript&logoColor=white&labelColor=yellow)
-
-<!--**- Framework**  -->
-
-![Django](https://img.shields.io/badge/Django-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-darkslategray?style=flat-square&logo=Django&logoColor=white&labelColor=darkslategray)
-![SpringBoot](https://img.shields.io/badge/SpringBoot-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-limegreen?style=flat-square&logo=Spring&logoColor=white&labelColor=limegreen)
-
-<!--**- Sub**  -->
-
-![Git](https://img.shields.io/badge/Git-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-orange?style=flat-square&logo=Git&logoColor=white&labelColor=orange)
-![MySQL](https://img.shields.io/badge/MySQL-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-blue?style=flat-square&logo=MySQL&logoColor=white&labelColor=blue)
-![Heroku](https://img.shields.io/badge/Heroku-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-darkslateblue?style=flat-square&logo=Heroku&logoColor=white&labelColor=darkslateblue)
-![AWS](https://img.shields.io/badge/AWS-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-darkorange?style=flat-square&logo=Amazon&logoColor=white&labelColor=darkorange)
-![Docker](https://img.shields.io/badge/Docker-%E2%98%85%E2%98%85%E2%98%86%E2%98%86%E2%98%86-deepskyblue?style=flat-square&logo=Docker&logoColor=white&labelColor=deepskyblue)
-![Flutter](https://img.shields.io/badge/Flutter-%E2%98%85%E2%98%85%E2%98%86%E2%98%86%E2%98%86-dodgerblue?style=flat-square&logo=Flutter&logoColor=white&labelColor=dodgerblue)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,java,ts,js,html,css,c,dart,bash,django,spring,flutter,nextjs,react,tailwind,redux,selenium,docker,git,github,gitlab,heroku,aws,jenkins,postgres,mongodb,mysql,qt,linux,vim,arduino,raspberrypi" />
+  </a>
+</p>
 
 ## 🐱‍💻 Information
 <!-- Widgets -->
