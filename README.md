@@ -1,7 +1,7 @@
 ## <img src="https://user-images.githubusercontent.com/48408417/87502548-c45f5000-c69c-11ea-8101-20bbc14ea002.jpg" width='20'> Hi there, I'm Kim Donghyeon
 
 
-## 🔧 My Skill
+## 💪 My Skill
 <!--**- Language**  -->
 
 <p align="center">
@@ -10,7 +10,7 @@
   </a>
 </p>
 
-## 🐱‍💻 Information
+## 📄 Information
 <!-- Widgets -->
 
 <div align="center">
