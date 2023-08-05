@@ -1,5 +1,7 @@
-## <img src="https://user-images.githubusercontent.com/48408417/87502548-c45f5000-c69c-11ea-8101-20bbc14ea002.jpg" width='20'> Hi there, I'm Kim Donghyeon
-
+<div align= "center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&text=Kim%20Donghyeon's%20Github&desc=자리이타%20홍익인간%20自利利他%20弘益人間&animation=fadeIn&fontColor=ffffff&fontSize=40&descSize=18&fontAlignY=35&descAlignY=50&descAlign=59" />
+</div>
+    
 
 ## 💪 My Skill
 <!--**- Language**  -->
